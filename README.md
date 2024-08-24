@@ -1,6 +1,6 @@
 # BoxVideoDownloader
 
-This script is a video downloader for Box（https://app.box.com/）.
+This script is a video downloader for Box（ https://app.box.com/ ）.
 
 I have only tested this script on Windows 10/11, so I am not sure if it will work on other operating systems.
 
