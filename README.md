@@ -4,7 +4,7 @@ This script is a video downloader for Box（https://app.box.com/）.
 
 I have only tested this script on Windows 10/11, so I am not sure if it will work on other operating systems.
 
-I used Python 3.10.9.
+I used Python 3.10.9 and requests module.
 
 ## Usage
 ## 1. Download and install ffmpeg via the following URL, if you don't already have it:
