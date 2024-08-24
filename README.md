@@ -32,4 +32,4 @@ python boxvideodownloader.py [mpd link]
 A video folder and an audio folder will be created automatically, and the `.m4s` files will be downloaded into these folders. Please wait until the download is complete.
 
 ## 6. When the download is finished, ffmpeg will merge the files and create a `downloaded.mp4` file.
-The .m4s files will be automatically deleted too.
+The .m4s files will be deleted automatically.
